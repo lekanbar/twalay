@@ -1,0 +1,38 @@
+RIM-COD-SHA1-4: 2b 74 f8 8a da f2 b2 f4 7a f0 bb 02 77 50 4a 72 c4 d3 8b f6
+RIM-COD-SHA1-3: 36 d4 63 37 c2 71 f0 69 f1 81 94 18 a9 f9 67 99 07 57 57 ac
+RIM-COD-SHA1-2: d3 43 29 3c 11 cf ee 8f 3d 60 42 88 7a 16 13 99 23 44 56 0e
+RIM-COD-SHA1-1: 9d 98 07 32 30 28 a9 9e 0b 11 f0 fa 58 6f ea 10 a7 ce a2 87
+RIM-MIDlet-Flags-1: 0
+MIDlet-Jar-Size: 1195905
+MIDlet-Name: Twalay
+MIDlet-Jar-URL: Twalay.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Description: Twitter App with voice.
+RIM-COD-URL-7: Twalay-7.cod
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_bb_browser_field_api,net_rim_bbapi_browser,net_rim_os,net_rim_bb_browser_field2_api,net_rim_xml_org
+RIM-COD-URL-6: Twalay-6.cod
+RIM-COD-URL-5: Twalay-5.cod
+RIM-COD-URL-4: Twalay-4.cod
+RIM-COD-URL-3: Twalay-3.cod
+RIM-COD-URL-2: Twalay-2.cod
+RIM-COD-URL-1: Twalay-1.cod
+RIM-COD-Size-7: 44712
+RIM-COD-Size-6: 62600
+RIM-COD-Size-5: 64476
+RIM-COD-Size-4: 62808
+RIM-COD-Size-3: 66192
+RIM-COD-Module-Name: Twalay
+RIM-COD-Size-2: 66848
+RIM-COD-Size-1: 59616
+RIM-COD-SHA1: 82 fa b4 96 fb 1d c9 ae b5 fb e5 4c 2c 52 a6 39 46 ed 5a a8
+RIM-COD-Size: 58276
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Ephase
+MIDlet-1: Twalay,img/icon.png,
+RIM-COD-URL: Twalay.cod
+Manifest-Version: 1.0
+MIDlet-Version: 1.0.0
+RIM-COD-SHA1-7: 20 fe 48 5c ef 45 6a 77 ae 4b cb 70 ad cb 50 38 5e fe 25 f6
+RIM-COD-Creation-Time: 1355106268
+RIM-COD-SHA1-6: 6b d2 62 ee a9 36 f8 04 d6 81 e4 a6 ed da 4f 97 c5 b7 eb c1
+RIM-COD-SHA1-5: 80 ef 12 83 33 41 33 dc ed 92 11 e8 30 d8 e6 cd 87 3d be b4

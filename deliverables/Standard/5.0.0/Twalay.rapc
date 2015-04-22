@@ -1,0 +1,11 @@
+MIDlet-Name: Twalay
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Ephase
+MIDlet-Description: Twitter App with voice.
+MIDlet-Jar-URL: Twalay.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Twalay,img/icon.png,
+RIM-MIDlet-Flags-1: 0
+

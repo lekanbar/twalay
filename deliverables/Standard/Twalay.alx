@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="Twalay">
+		<name >
+			Twalay
+		</name>
+		<description >
+			Twitter App with voice.
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			Ephase
+		</vendor>
+		<copyright >
+			Copyright (c) 2012 Ephase
+		</copyright>
+		<fileset Java="1.54" _blackberryVersion="[5.0.0)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				Twalay.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
